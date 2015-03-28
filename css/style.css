@@ -1,0 +1,37 @@
+
+body {
+      padding-top: 20px;
+      font-size: 16px;
+}
+
+.col-md-6 {
+  width: 50%;
+  float: left;
+}
+.landing-page {
+  padding-top: 92px;
+  text-align: center;
+}
+.panel {
+  background-color: #F8F8F8;
+  width: 48%;
+height: 144%;
+margin-left: 294px;
+
+}
+.main-page {
+  padding-top: 34px;
+  text-align: initial;
+
+}
+
+.input-group {
+  margin-left: 87px;
+  width: 382px;
+}
+.btn-lg{
+width: 133px;
+}
+.lower-p {
+margin-top: 41px;
+}
