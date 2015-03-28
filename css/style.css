@@ -12,6 +12,9 @@ body {
       padding-top: 20px;
       font-size: 16px;
 }
+h1 {
+  font-family: 'Pacifico', cursive;
+}
 
 .col-md-6 {
   width: 50%;
@@ -21,7 +24,15 @@ body {
   padding-top: 92px;
   text-align: center;
   padding: 20px;
+
+
 }
+.landing-page  p {
+    font-family: 'Cabin Condensed', sans-serif;
+  }
+.help-block{
+  font-family: 'Cabin Condensed', sans-serif;
+  }
 .panel {
   background-color: #F8F8F8;
   width: 48%;
