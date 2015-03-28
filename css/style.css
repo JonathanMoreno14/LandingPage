@@ -1,4 +1,13 @@
 
+html {
+  background: url(images/bg.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+
 body {
       padding-top: 20px;
       font-size: 16px;
@@ -38,6 +47,3 @@ margin-top: 41px;
 text-decoration: none;
 
 }
-/*a{
-  text-decoration: none;
-}*/
