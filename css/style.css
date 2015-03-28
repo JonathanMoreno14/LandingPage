@@ -17,6 +17,7 @@ body {
   width: 48%;
 height: 144%;
 margin-left: 294px;
+padding: 20px;
 
 }
 .main-page {
@@ -34,4 +35,9 @@ width: 133px;
 }
 .lower-p {
 margin-top: 41px;
+text-decoration: none;
+
 }
+/*a{
+  text-decoration: none;
+}*/
