@@ -1,6 +1,6 @@
 
-html {
-  background: url(img/sailboats_city.jpg) no-repeat center center fixed;
+body {
+  background: url(../img/dawn_on_town_beach.jpg) no-repeat center center fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -20,6 +20,7 @@ body {
 .landing-page {
   padding-top: 92px;
   text-align: center;
+  padding: 20px;
 }
 .panel {
   background-color: #F8F8F8;
@@ -32,6 +33,7 @@ padding: 20px;
 .main-page {
   padding-top: 34px;
   text-align: initial;
+  font-weight: 400;
 
 }
 
