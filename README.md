@@ -4,11 +4,26 @@ Created this Landing Page using Bootstrap. The web page consist of a background 
 
 ## Install
 
-Add this links to your head tag within your html document
+Add these links to your head tag within your html document
 ```
 <link href="css/style.css" rel="stylesheet">
 <link href='http://fonts.googleapis.com/css?family=Cabin+Condensed|Pacifico' rel='stylesheet' type='text/css'>
 ```
+Download the style.css and add to your css folder
+
+###### Adding a Background Image
+```
+body {
+  background: url(../img/dawn_on_town_beach.jpg) no-repeat center center fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+
+}
+
+```
+
 Add this code to your body of your html document
 ```
   <div class="landing-page">
